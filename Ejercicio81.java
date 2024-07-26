@@ -2,7 +2,7 @@
 Sino calcular y reportar el producto las edades */
 
 import java.io.*;
-public class Ejercicio81 {
+public class Ejercicio1 {
   public static void main(String[] args)throws IOException{
     BufferedReader br= new BufferedReader(new InputStreamReader(System.in));
 
